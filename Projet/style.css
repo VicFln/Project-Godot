@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+header {
+    background-color: #2E4053;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+    font-family: Georgia, sans-serif;
+    font-size: 1.5rem;
+    border-style: none none solid none ;
+    border-color: black;
+    border-width: 0.35rem;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#contenu-principal {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    position: center;
+    background-color: #2E4053  ;  /* Sinon il y a juste bleu */
+    border-color:  black;
+    border-radius: 50px;
+    border-width: 0.35rem;
+    border-style: solid;
+    padding: 10%;
+    color: #fff;
+    
+    
+}
+
+#text {
+    position: absolute; top: 25% ;left: 22.5%;
+    color: #fff;
+
+
+
+
+}
+
+
+footer {
+    background-color: #2E4053;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    border-style: solid none none none ;
+    border-color: black;
+    border-width: 0.35rem;
+
+}
+
+
+
+.logo_godot{
+    width : 150px;
+    height : 150px;
+    position: absolute;
+    top: 2%;
+    right: 1%;
+}
+
+.gif{
+    width : 150px;
+    height : 150px;
+    position: absolute;
+    top: 2%;
+    left: 1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
